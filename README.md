@@ -1,12 +1,12 @@
-# Exemplo de Deploy para modelos ML utilizando Flask
+# Projeto de Deploy para modelos ML utilizando Flask
 
-Este repositório é guia simples para compreender como pode ser feito o deploy de suas aplicações de ML tanto em uma página com interface Web como uma API. 
+Este projeto tem como finalidade predizer a classificação mundial de um determinado piloto caso ele estivesse em outra escuderia em um determinado pelo qual o usuário tem a curiosidade de saber. 
 
 
-Para testar existem 2 formas:
+Para testar o site é necessário:
 
-- Clone este repositório;
-- Execute o app.py com flask run 
+- Clonar este repositório;
+- Execute o 'formula_site_py' 
 - abra o navegador em localhost na porta 5000. 
 - http://127.0.0.1:5000
 
@@ -23,3 +23,5 @@ Template de paginas web grátis
 
 Git de referência: https://github.com/letsdata/deploy-modelos-flask ou https://youtu.be/_KNzvVsrB8k
 
+Página Inicial do Site:
+<a href="https://imgur.com/6inx1Mq"><img src="https://imgur.com/6inx1Mq.jpg" title="source: imgur.com" /></a>
