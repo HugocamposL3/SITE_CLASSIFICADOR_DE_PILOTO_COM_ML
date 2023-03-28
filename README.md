@@ -23,5 +23,11 @@ Template de paginas web grátis
 
 Git de referência: https://github.com/letsdata/deploy-modelos-flask ou https://youtu.be/_KNzvVsrB8k
 
-Página Inicial do Site:
+## Página Inicial do Site:
+
 <a href="https://imgur.com/6inx1Mq"><img src="https://imgur.com/6inx1Mq.jpg" title="source: imgur.com" /></a>
+
+## Página de Classificação do Site:
+
+<a href="https://imgur.com/ZBQYJq6"><img src="https://imgur.com/ZBQYJq6.jpg" title="source: imgur.com" /></a>
+
